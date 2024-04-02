@@ -6,3 +6,5 @@
 
 [lab-4](https://github.com/kvramana28/AIML_Lab/blob/main/Lab04.ipynb)
 
+[lab-5](https://github.com/kvramana28/AIML_Lab/blob/main/Lab05.ipynb)
+
