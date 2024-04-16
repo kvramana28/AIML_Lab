@@ -14,5 +14,11 @@
 
 [lab-8](https://github.com/kvramana28/AIML_Lab/blob/main/Lab_08.ipynb)
 
+[lab-9](https://github.com/kvramana28/AIML_Lab/blob/main/AIML_LAB9.ipynb)
+
+
+
+
+
 
 
