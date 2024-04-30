@@ -18,6 +18,9 @@
 
 [lab-10](https://github.com/kvramana28/AIML_Lab/blob/main/LAB_10.ipynb)
 
+[PROJECT](https://github.com/kvramana28/AIML_Lab/blob/main/project.ipynb)
+
+
 
 
 
